@@ -23,4 +23,4 @@ python process_svg.py input.svg
 
 ---
 
-领导再也不用担心draw.io在我们书里拉了！
+领导再也不用担心draw.io在我们书里拉💩了！
